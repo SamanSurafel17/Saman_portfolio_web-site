@@ -6,5 +6,4 @@ This is my self designed and developed personal website, here you can able to go
    * HTML
    * CSS
    * JavaScript
-   * JQuery
 
