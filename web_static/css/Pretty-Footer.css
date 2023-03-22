@@ -33,7 +33,7 @@ footer {
 }
 
 .footer-navigation p.company-name {
-  color: #8f9296;
+  color: #ffffff;
   font-size: 14px;
   font-weight: normal;
   margin-top: 20px;
@@ -52,12 +52,12 @@ footer {
 }
 
 .footer-contacts p a {
-  color: #5383d3;
+  color: #ffffff;
   text-decoration: none;
 }
 
 .fa.footer-contacts-icon {
-  background-color: #33383b;
+  background-color: #f70d0d;
   color: #fff;
   font-size: 18px;
   width: 38px;
@@ -80,15 +80,15 @@ span.new-line-span {
 .footer-about h4 {
   display: block;
   color: #fff;
-  font-size: 14px;
+  font-size: 30px;
   font-weight: bold;
-  margin-bottom: 20px;
+  margin-bottom: 40px;
 }
 
 .footer-about p {
   line-height: 20px;
-  color: #92999f;
-  font-size: 13px;
+  color: #ffffff;
+  font-size: 20px;
   font-weight: normal;
   margin: 0;
 }
@@ -103,7 +103,7 @@ div.social-links {
   width: 35px;
   height: 35px;
   cursor: pointer;
-  background-color: #33383b;
+  background-color: #1152ca;
   border-radius: 2px;
   font-size: 20px;
   color: #ffffff;
